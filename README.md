@@ -1,6 +1,5 @@
-# Classification_Project
-It's a classification model that predict advertisement click behaviour based on various user and ad-related features.
 # Ad Clicks Prediction Project
+It's a classification model that predict advertisement click behaviour based on various user and ad-related features.
 
 ## Overview
 This project aims to predict whether a user will click on an advertisement based on various user and ad-related features. The goal is to build a robust classification model that can assist in optimizing ad placement and targeting strategies. We explore several machine learning models and evaluate their performance to identify the most effective solution.
